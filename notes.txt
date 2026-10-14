@@ -1,0 +1,16 @@
+======================================================================
+FINAL SUMMARY
+======================================================================
+
+  evidence_CIRCULATION.csv            | ✓   1  ✗   0  |     10s
+  evidence_GIVING_PRESENTING.csv      | ✓   8  ✗   0  |    2.2m
+  evidence_ORDERS_COMMANDS.csv        | ✓  28  ✗   0  |    5.9m
+  evidence_OWNERSHIP_MARKS.csv        | ✓ 444  ✗   0  |   51.6m
+  evidence_PRINTING_EDITIONS.csv      | ✓ 743  ✗   0  |    1.4h
+  evidence_PRIORITY.csv               | ✓  15  ✗   0  |    2.9m
+  evidence_RECEIVING_ACQUIRING.csv    | ✓  29  ✗   0  |    4.7m
+  evidence_TOKUGAWA_PROVENANCE.csv    | ✓  12  ✗   0  |    2.5m
+  evidence_TRANSFER_TRANSMISSION.csv  | ✓   3  ✗   0  |     18s
+
+  TOTAL: ✓ 1283  ✗   0  |    2.6h
+======================================================================

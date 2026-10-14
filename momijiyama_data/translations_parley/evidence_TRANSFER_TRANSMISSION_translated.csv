@@ -1,0 +1,27 @@
+﻿Record_ID,Library,Title_and_Author,Volume_Info,Exact_Provenance_Language_JP,Remarks_Notes,Type_Category,Fascicle_Count,Keywords_Present,Search_Term_Hit,Search_Category,Source_URL,Literal_English_Translation,Confidence_Level,Notes_and_Uncertainty,Extraction_Date,Summary
+*番号,Momijiyama,題目(主目録) / 撰者等,巻数・附録等,刊写・来歴等,備考,種別,冊,edition_type,来歴,TRANSFER_TRANSMISSION,link,"刊写 (kanshA) = ""printing / copying (manuscript transcription)""; ・ = ""and / or""; 来歴 (raireki) = ""provenance, history of transmission or ownership""; 等 (tō) = ""etc.""
+
+Literal rendering: ""Printing/Copying, Provenance, etc.""
+
+Note: this is not a provenance narrative. It is a standard field heading in Japanese rare-book catalogs, where details such as the printing or copying date, colophons (奥書), seals (蔵書印), and ownership history are normally recorded. The text you supplied contains no clauses of the entry itself, so there is nothing further to translate clause by clause.",,,2026-10-13T16:03:05.165963,"The text is only the catalog heading ""Printing/Copying, Provenance, etc."" and records no book movement or acquisition. Please send the body text of the entry, such as the seals, colophons, or ownership notes, for a real translation and summary.
+---"
+?,Momijiyama,彙刻,主目録 彙刻 来歴志 始末記,,,,,,来歴,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.166179,
+*番号,Momijiyama,題目(来歴志),書志,案語,備考,種別,冊,,来歴,TRANSFER_TRANSMISSION,link,"案 (an): ""to consider / examine / note""; here used in the sense of a compiler's or editor's own reflection
+語 (go): ""words / statement / remarks""
+→ 案語 (ango; also written 按語): ""remarks upon consideration,"" i.e., an editor's or compiler's note, a comment added by the one who compiled or annotated the text (often introduced by 謹案 or 案ずるに), as distinct from the quoted source.",,,2026-10-13T16:03:05.166334,"The text is only the two-character heading 案語 (""editor's remarks"") and contains no names, dates, places, or transactions, so it records no movement or acquisition of a book. It most likely marks a note by a compiler or annotator, and any provenance claim would need the actual surrounding passage (e.g., colophon, seal, or ownership inscription).
+---
+
+If you can supply the full passage, such as a 奥書, 識語, 蔵書印 transcription, or the text following 案語, I can translate it clause by clause and summarize the book's movement."
+?,Momijiyama,来歴志,主目録 彙刻 来歴志 始末記,,,,,,来歴,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.166464,
+?,Momijiyama,始末記,主目録 彙刻 来歴志 始末記,,,,,,来歴,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.166581,
+776,Momijiyama,孔門源流考 / 明戴庭槐撰,十卷,,,主目錄史部一,4,,源流,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.169898,
+846,Momijiyama,閩南道學源流 / 明楊應詔撰,十六卷,,,主目錄史部一,4,,源流,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.170080,
+2503,Momijiyama,醫學源流 / 明<盧博＊編／余應奎補遺>,十六卷,,＊虞搏,主目錄子部二,9,,源流,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.170228,
+2504,Momijiyama,增補醫學源流 / 明聶尙恆撰,六卷／首一卷,,,主目錄子部二,9,,源流,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.170366,
+3463,Momijiyama,源流至論 / 宋林駉撰,前集十卷後集十卷／續集十卷別集十卷,明宣德板,,主目錄子部四,11,edition_type|transregional,源流,TRANSFER_TRANSMISSION,,"明 (Ming [dynasty]) / 宣德 (Xuande [reign era, 1426–1435]) / 板 (woodblock, printing edition; here a variant of 版) = ""Ming, Xuande [-era] woodblock edition.""
+
+The text is a single noun phrase with no verb, so there are no separate clauses. It is a bibliographic edition note in Sinitic (kanbun-style) notation, not a narrative sentence.",,,2026-10-13T16:03:05.170512,"This note only identifies the book as a Ming-dynasty edition printed from Xuande-era (1426–1435) woodblocks; it says nothing about any transfer, ownership, or acquisition, so no book movement can be drawn from it.
+---"
+3747,Momijiyama,曹溪源流頌 / 明釋行璣編,一卷,,,主目錄子部四,11,,源流,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.170643,
+4948,Momijiyama,詩法源流 / 不著編人,三卷,,,主目錄集部三,14,,源流,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.170773,
+7644,Momijiyama,醫學源流論,二卷,,,彙刻書目子部二,22,,源流,TRANSFER_TRANSMISSION,,,,,2026-10-13T16:03:05.170915,

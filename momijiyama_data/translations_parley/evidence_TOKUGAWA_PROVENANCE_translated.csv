@@ -1,0 +1,216 @@
+﻿Record_ID,Library,Title_and_Author,Volume_Info,Exact_Provenance_Language_JP,Remarks_Notes,Type_Category,Fascicle_Count,Keywords_Present,Search_Term_Hit,Search_Category,Source_URL,Literal_English_Translation,Confidence_Level,Notes_and_Uncertainty,Extraction_Date,Summary
+1224,Momijiyama,元和郡縣圖志 / 唐李吉甫撰,四十卷逸文一卷／內原闕二卷／附補志二卷,,,主目錄史部三,6,,元和,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.149107,
+1538,Momijiyama,元和縣志 / 淸許治撰,三十六卷,乾隆重修,,主目錄史部四,7,,元和,TOKUGAWA_PROVENANCE,,"乾隆 (Qianlong, the reign era of the Qing emperor, 1736-1795) / 重修 (re-compile, revise, or rebuild; 重 = again, 修 = to compile, repair, or edit). Literal reading: ""Qianlong [era] revised again"" or ""Re-edited in the Qianlong period.""
+
+Note: this is Chinese (Literary Chinese) rather than Classical or Early Modern Japanese. It has no Japanese grammar, no kana, and no kundoku markers. It reads as an edition or imprint statement, such as a note that a text, gazetteer, or temple or local history was revised or reissued under Qianlong. It is not a provenance inscription.",,,2026-10-13T16:03:05.149215,"The phrase only says the work was revised or re-edited in the Qianlong era (1736-1795) and records no acquisition, transfer, owner, or movement of the book. Any such provenance would have to come from other inscriptions, seals, or catalog notes.
+---"
+3644,Momijiyama,維摩經略疏 / 明釋湛然撰,十卷,元和活字板,,主目錄子部四,11,edition_type|transregional,元和,TOKUGAWA_PROVENANCE,,"元和 (Genna, the era name for 1615-1624) / 活字 (movable type, literally ""active/living characters"") / 板 (printing edition, here a variant of 版, literally ""board/block"") = ""Genna-era movable-type edition.""",,,2026-10-13T16:03:05.149307,"The text is only a bibliographic label identifying the item as an early Edo-period (Genna era) edition printed with movable type, and it gives no information about the book's movement, ownership, or acquisition.
+---"
+6450,Momijiyama,元和三年書翰,萬曆四十五年／附別幅一通,,,主目錄御家番外部,19,,元和,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.149391,
+6460,Momijiyama,元和三年致執政書,附別幅一通,,,主目錄御家番外部,19,,元和,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.149472,
+7529,Momijiyama,元和紀用經 / 唐許寂,二卷,,,彙刻書目子部二,22,,元和,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.149551,
+9359,Momijiyama,元和辨謗錄〈闕〉 / 唐李德裕,,,,彙刻書目子部五,25,,元和,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.149629,
+18336,Momijiyama,又（羣書治要）,元和二年正月／（双擡）東照大君（德川家康）、活字ノ便ナルヲ以テ、駿府ニ於テ別ニ銅字數萬ヲ製セラレ、此書ヲ刷印令メラル。畔柳壽學、林道春（羅山）、釋（以心）崇傳等其事ニ預ル。後ニ銅字ヲ紀伊家ニ傳與セラレ、今ニ存スト云フ。／（双擡）有德大君（德川吉宗）、大統ヲ繼キタマフニ及ヒテ、銅板刷印ノ羣書治要、大藏一覽等、數部紀府ニ存スルヲ以テ、元文五年七月、其二部ヲ御庫ニ收メラル。,謹案ニ、林信勝年譜元和元年、赴駿府、奉　旨覽監羣書治要、大藏一覽開板之事トアルハ、此時ノ事ニシテ、初メ三要ニ賜ハリシ木板ニアラス。又元和二年、／（双擡）大神君棄羣臣、信勝配分官庫御書、附義直卿、賴宣卿、賴房卿之家臣トアリ。羣書治要、大藏一覽等、多ク紀府ニ存スルモ、其故ナルヘシ。,,來歷志子部,39,edition_type|transregional|provenance_actions|institutional,元和,TOKUGAWA_PROVENANCE,,"- 謹案ニ、 ""Respectfully I consider/note:""
+- 林信勝年譜元和元年、 ""The chronology of Hayashi Nobukatsu says that in Genna 1 (1615),""
+- 赴駿府、 ""he went to Sunpu,""
+- 奉　旨覽監羣書治要、 ""and, by decree, inspected the *Qunshu zhiyao* (Gunsho Chiyō),""
+- 大藏一覽開板之事トアルハ、 ""and the item reading 'the matter of publishing (cutting blocks for) the *Daizō ichiran*':""
+- 此時ノ事ニシテ、 ""this is a matter of that time,""
+- 初メ三要ニ賜ハリシ木板ニアラス。 ""and is not the wooden printing blocks originally bestowed on Sanyō.""
+- 又元和二年、 ""Furthermore, in Genna 2 (1616),""
+- ／（双擡）大神君棄羣臣、 ""[line break, honorific double-raise] the Great Divine Lord (Ieyasu) abandoned his assembled retainers (i.e., died);""
+- 信勝配分官庫御書、 ""Nobukatsu apportioned the books of the government storehouse,""
+- 附義直卿、賴宣卿、賴房卿之家臣トアリ。 ""and attached them to the retainers of Lord Yoshinao, Lord Yorinobu, and Lord Yorifusa — so it states.""
+- 羣書治要、大藏一覽等、 ""The *Gunsho Chiyō*, *Daizō ichiran*, and the like,""
+- 多ク紀府ニ存スルモ、 ""that many survive in the Kii domain household,""
+- 其故ナルヘシ。 ""must be for that reason.""",,,2026-10-13T16:03:05.149714,"The annotator argues, citing Hayashi Nobukatsu's chronology, that the *Daizō ichiran* printing in 1615 was separate from the blocks first granted to Sanyō, and that after Ieyasu's death in 1616 Nobukatsu distributed the shogunal storehouse books among the Owari, Kii, and Mito lords (Yoshinao, Yorinobu, Yorifusa), which explains why works like the *Gunsho Chiyō* and *Daizō ichiran* are largely preserved in the Kii collection.
+---"
+18468,Momijiyama,朝野舊聞裒稾,文政年閒、林大內記衡　旨ヲ奉シテ、僚屬ヲシテ編輯セシメ、天保十三年、林大學頭皝（檉宇）ニ至リテ卒業ス。此書、御遠祖貞純親王ヨリ（源）義國君ニ至ルマテノ、御血統ノ要領ヲ擧ケ、義國君ノ御子義重君ヨリ、元和二年／（双擡）東照大君薨御ニ至ルマテ、御代々ノ御事蹟ヲ編輯ス。天保十三年十二月廿八日、御庫ニ收ム。,,,來歷志御家類,40,,元和,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.149792,
+18509,Momijiyama,又（三代實錄）,永正中、逍遙院（三條西）實隆公ノ書本ヲ以テ、慶長三年、丹山隱士書寫スル所ナリ。每卷ノ後ニ、正和至德閒、卜部家ノ傳本跋及ヒ、實隆公ノ原跋アリ。卷二十九ノ後ニ、右一册三卷、慶長亂之砌、於大坂紛失畢。仍以三條西殿本修補之、元和二年三月十一日、又卷三十七後ニ、于時慶長元曆臘天、向雪夜之寒燈、有考舊記之事、所持之本十三行、有二十八九字也、於燈下閱之、老眼光少、盡不分明、今當改行、爲十行二十字、是倂爲老目之助而已、丹山隱士ト記セリ。,,,來歷志國書部,41,,元和,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.149869,
+18637,Momijiyama,,御文庫ノ設ハ／（三擡）東照大君（德川家康）、駿府御在城ノ時ニ始マル。林道春信勝（羅山）、ソノ管鑰ヲ掌トルコト、載テソノ年譜ニ見ユ。慶長十九年七月、駿府ヨリ／（三擡）台德大君（德川秀忠）ニ御書籍三十部ヲ賜フ。コノ時ニ、道春ト與安法印宗哲ト、連署ノ書アリ。江戸ヨリモ、永喜（林東舟）ト閑齋法印トノ答簡アリ。是ヲモテ考フレハ、與安法印モマタ、道春ト共ニ典籍ヲ司トリシナルヘシ。當時江戸御文庫ノコト、今詳ニシカタシ〈永喜、初名ハ信澄。道春ノ弟ニシテ江城ニ奉仕ス。與安、名ハ宗哲。醫ヲモテ駿府ニ奉仕ス。閑齋ノ履歷、詳ナラス〉。抑慶長元和ノ閒、四方多事ノ日ニ當リテ廣ク典籍ヲ蒐メ、駿府官庫ニ藏メテ、稽古右文ノ用ニ備ヘタマフ。元和二年／（三擡）東照大君薨去ノ後、道春　遺命ヲ奉シテ、（德川）義直卿、（德川）賴宣卿、（德川）賴房卿ニ分チ、日本ノ舊記オヨヒ希世ノ書ハ、江戸ノ御文庫ニ收メシヨシ、信勝カ年譜、駿府日記等ニ載ス。コレヨリ駿府御文庫ハ遂ニ廢シヌ。今御文庫ニ存スル道春ノ御本日記ハ、コノ時ノ目錄ナルニヤ、明據ナシ。寬永十年十二月二十日、奧向勤仕關兵三郞（正成）〈ノチ兵左衞門ト改ム〉、御納戸星合豬左衞門（具枚）、大御番三雲內記（成賢）、西尾加右衞門（正保）ヲモテ、始メテ御書物奉行ニ　命セラル。コレ司籍ノ官ヲ置ル權輿ナリ〈始メテ奉行ヲ　命セラレヽ＊ヲモテ書ス。ソノ餘ハ後ノ履歷ノ條ニ詳ナレハ記セス。モシソノ異常ノ者アレハ特書ス〉。,謹案スルニ、豬左衞門等カ家譜ニ云フ、寬永十三年丙子／（三擡）仙洞御所ヨリ律令ノ書ヲ求メ給フ。松平伊豆守（信綱）　旨ヲ奉シ、十月鎌倉ノ建長寺、圓覺寺ノ西堂オヨヒ緇徒二十餘人ヲ江戸ノ海禪寺ニ招キ、金澤文庫ノ律令ヲ書寫セシメラレ、林道春（羅山）、林永喜（東舟）コレヲ挍正シ、豬左衞門等ソノ事ヲ奉行ス。マタ十八年庚辰、太田備中守（資宗）　旨ヲ奉シテ、諸家ノ系圖ヲ撰フ。豬左衞門等、ソノ席ノ奉行タリト云フ。今採錄シテ考據ニ備フ。,＊命セラルヽ,始末記,43,institutional,元和,TOKUGAWA_PROVENANCE,,"- 謹案スルニ: ""Respectfully considering (this matter)…""
+- 豬左衞門等カ家譜ニ云フ: ""The genealogical record of Izaemon and his colleagues says:""
+- 寬永十三年丙子: ""In the 13th year of Kan'ei, the year bingzi (1636),""
+- （三擡）仙洞御所ヨリ律令ノ書ヲ求メ給フ: ""[three-space honorific raise] the Retired Emperor's Palace (Sentō Gosho) sought books of the ritsuryō (legal codes).""
+- 松平伊豆守（信綱）旨ヲ奉シ: ""Matsudaira, Lord of Izu (Nobutsuna), receiving the directive,""
+- 十月鎌倉ノ建長寺、圓覺寺ノ西堂オヨヒ緇徒二十餘人ヲ江戸ノ海禪寺ニ招キ: ""in the tenth month summoned to Kaizen-ji in Edo the 'western-hall' senior monks of Kenchō-ji and Engaku-ji in Kamakura, together with twenty-some black-robed monks (Buddhist clergy),""
+- 金澤文庫ノ律令ヲ書寫セシメラレ: ""and had them copy the ritsuryō of the Kanazawa Bunko.""
+- 林道春（羅山）、林永喜（東舟）コレヲ挍正シ: ""Hayashi Dōshun (Razan) and Hayashi Eiki (Tōshū) collated and corrected it,""
+- 豬左衞門等ソノ事ヲ奉行ス: ""and Izaemon and his colleagues administered the affair as magistrates.""
+- マタ十八年庚辰: ""Again, in the 18th year (given as the year gengchen),""
+- 太田備中守（資宗）旨ヲ奉シテ: ""Ōta, Lord of Bitchū (Sukemune), receiving the directive,""
+- 諸家ノ系圖ヲ撰フ: ""compiled the genealogies of the various families.""
+- 豬左衞門等、ソノ席ノ奉行タリト云フ: ""Izaemon and his colleagues, it is said, were the magistrates of that session.""
+- 今採錄シテ考據ニ備フ: ""Now I select and record this to provide for reference and evidence.""
+
+(Note: Kan'ei 18 is actually xinsi, 1641; gengchen is Kan'ei 17, 1640. The source text contains this inconsistency.)",,,2026-10-13T16:03:05.149954,"In 1636, when the Retired Emperor requested ritsuryō texts, Matsudaira Nobutsuna had monks from Kamakura's Kenchō-ji and Engaku-ji copy the Kanazawa Bunko's ritsuryō manuscripts at Kaizen-ji in Edo, with the Hayashi scholars proofreading and Izaemon's line administering, after which the same men also oversaw the later genealogy-compilation session under Ōta Sukemune.
+---"
+18236,Momijiyama,本草綱目〈四十册／明板〉,右／（双擡）東照大君（德川家康）御前ノ書也。,謹案ニ、本草綱目、林信勝（羅山）、慶長十二年　命ヲ奉シテ長崎ニ赴キ、歸ルニ當リテ此等ノ書ヲ獻スルコト、家傳ニ存スト云フ。則此書ナリヤ。又駿府日記ニ、慶長十八（九）年四月二十八日、本草綱目ヲ江戸ニ賜フトアリ。信勝所獻ノ本ナリヤ、亦別本ナリヤ、今詳ニスルコトアタハス。,,來歷志,38,provenance_actions|institutional,家康,TOKUGAWA_PROVENANCE,,"謹案ニ — ""Respectfully considering (this matter), / A respectful note:""
+本草綱目、 — ""the *Bencao gangmu* (Honzō kōmoku),""
+林信勝（羅山）、 — ""Hayashi Nobukatsu (Razan),""
+慶長十二年 — ""in Keichō 12 (1607),""
+命ヲ奉シテ — ""having received (humbly) an order,""
+長崎ニ赴キ、 — ""went to Nagasaki,""
+歸ルニ當リテ — ""and on the occasion of returning,""
+此等ノ書ヲ獻スルコト、 — ""the presenting of these books (to the shogun/court),""
+家傳ニ存スト云フ。 — ""is said to exist in the family tradition.""
+則此書ナリヤ。 — ""Then, is this the very book (in question)?""
+又駿府日記ニ、 — ""Further, in the *Sunpu nikki* (Sunpu Diary),""
+慶長十八（九）年四月二十八日、 — ""on the 28th day of the 4th month of Keichō 18 (or 19; the ""(九)"" is a textual variant/annotation),""
+本草綱目ヲ — ""the *Bencao gangmu*""
+江戸ニ賜フト — ""was bestowed upon Edo (i.e., sent/granted to Edo)""
+アリ。 — ""so it is written.""
+信勝所獻ノ本ナリヤ、 — ""Is it the copy that Nobukatsu presented,""
+亦別本ナリヤ、 — ""or is it another, separate copy?""
+今詳ニスルコトアタハス。 — ""at present, it is not possible to determine in detail.""
+
+Notes: Here ""Keichō 12 (1607)"" follows the text as written. The date ""十八（九）"" is given with a variant in parentheses, so it should be read as uncertain between 1613 and 1614. ""Edo ni tamau"" is best read as the book being granted/sent to the Edo side (the shogunal heir's seat), not simply ""given in Edo.""",,,2026-10-13T16:03:05.153442,"The note records that, according to Hayashi Razan's family tradition, he obtained the *Bencao gangmu* in Nagasaki in 1607 and presented it on his return, while the Sunpu Diary separately records a copy being sent to Edo on the 28th day of the 4th month of Keichō 18 (or 19), and the compiler cannot determine whether the two refer to the same copy or to different ones.
+---"
+18259,Momijiyama,周易註,慶長十年、／（双擡）東照大君（德川家康）、足利學ノ三要（閑室元佶）ニ　旨有リテ印行令メラルヽ、活字版ノ一也。其始末、孔子家語ノ條ニ詳ナリ。鹿苑ノ（西笑）承兌カ跋ニ云、頃蒙／（双擡）大將軍〈御諱〉公鈞命印行周易、其志要弘聖道於萬年トアリ。此本／（双擡）有德大君（德川吉宗）御前ニ置レシヲ、後御小納戸ヨリ御庫ニ移サル。是ヨリ後、享保中、御小納戸ヨリ出ルト云モノ、皆コノ類也。,謹案ニ、昆陽漫錄〈靑木文藏敦＊著ス。〉ニ、慶長官刻ノ家語、易經ヲ得テ官ニ上ルト云ヘルハ、則此書ナルヘシ。一タヒ官ニ逸セシヲ、靑木文藏是ヲ獻シテ、再ヒ其舊ヲ補フモノナリ。,＊敦書,來歷志經部,38,,家康,TOKUGAWA_PROVENANCE,,"- 謹案ニ (""Respectfully, I consider / in my humble note""): the compiler's formal opening for his own commentary.
+- 昆陽漫錄〈靑木文藏敦著ス。〉ニ (""In the *Konyō Manroku* [written by Aoki Bunzō, personal name Atsushi]""): this names the source being cited and its author.
+- 慶長官刻ノ家語、易經ヲ得テ官ニ上ルト云ヘルハ (""As for the statement that he obtained the *Jiayu* [Kogo] and the *Yijing* [Eki-kyō], official printings of the Keichō era, and presented them to the government""): the cited passage.
+- 則此書ナルヘシ (""that is, it must be this very book""): the compiler's inference, marked as probable by ベシ.
+- 一タヒ官ニ逸セシヲ (""Having once been lost from the official [collection]""): the book had dropped out of the shogunal holdings.
+- 靑木文藏是ヲ獻シテ (""Aoki Bunzō presented this""): he gave it to the authorities.
+- 再ヒ其舊ヲ補フモノナリ (""it is a thing that again made up what had been there formerly""): it restored the old holding.",,,2026-10-13T16:03:05.153577,"The compiler suggests that this Keichō-era official printing is the one Aoki Bunzō (Konyō) says he obtained and presented to the shogunate, so a copy that had once left the official collection was returned and the old holding made whole again.
+---"
+18266,Momijiyama,別本禮記正義,淸原秀賢、宋板ヲ影寫セルナリ。卷二十二ノ後ニ、右一策防州山口神光寺住僧果明、在洛閒雇筆了、慶長四年仲春吏部淸原押字ト記セリ。又卷三十九ノ後ニ、右一册以／（双擡）內府〈御諱〉公ノ本、課朝鮮文士鄭鴻業令謄寫者也、于時文祿三年戊戌臘月吏部秀賢ト記セリ。每卷、淸原宣賢、淸門之統學、安太史平叔、司天臺、松本氏圖書記等ノ印記アリ。此書、舊ト淸家ノ藏本ナリシカ、後轉シテ、安部家＊ノ收藏トナル。松本氏、其人ヲ考ヘス。秀賢ハ、船橋式部太輔＊、宣賢ハ、其子大炊助（秀雄）ナリ。慶長十九年九月七日、宣賢駿府ニ於テ始メテ／（双擡）神祖（德川家康）ニ見エ奉リ、父秀賢カ遺物トシテ三代實錄五十卷ヲ獻スト、駿府記ニ見エタルハ、卽此人ナリ。此書、久シク民閒ニ散シ書賈ノ手ニ落タルヲ、／（双擡）神祖ノ御本ヲ謄寫ストアルヲ以テ、今其原本ノ御庫ニ佚スルカ爲ニ、林衡建言シテ、享和二年七月、收ム。,,＊安倍家，＊式部大輔,來歷志經部,38,,家康,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.153678,
+18314,Momijiyama,十七史詳節,韓板活字ニシテ、韓人ノ藏本ナリ。來歷詳カナラス。,謹案ニ、惺窩行狀ニ、慶長五年侍／（双擡）源君（德川家康）、讀東萊十七史トアリ。然レハ此書、御本日記ニ載セスト雖トモ、駿府御文庫本ナルモ亦知ルヘカラス。,,來歷志史部,38,ownership|institutional,家康,TOKUGAWA_PROVENANCE,,"- 謹案ニ (""Respectfully I consider / humbly note""): the compiler's opening formula for his own comment.
+- 惺窩行狀ニ (""In the Seika gyōjō, the Account of the Conduct of [Fujiwara] Seika""): the source he cites.
+- 慶長五年 (""In Keichō 5 [1600]"")
+- 侍／（双擡）源君（德川家康） (""[Seika] attended upon Lord Minamoto (Tokugawa Ieyasu)""): the slash marks a line break, and 双擡 means the honorific is raised on the new line for respect.
+- 讀東萊十七史トアリ (""and read the 'Tōrai Seventeen Histories'; so it is written""): Tōrai is the Song scholar Lü Zuqian, to whom the work is attributed.
+- 然レハ (""That being so,"")
+- 此書、御本日記ニ載セスト雖トモ (""although this book is not recorded in the Gohon nikki, the Diary of the Honorable Books"")
+- 駿府御文庫本ナルモ (""that it was a book of the Sunpu Gobunko, the Sunpu shogunal library,"")
+- 亦知ルヘカラス (""also cannot be ruled out / also cannot be known""): that is, it may well have been.",,,2026-10-13T16:03:05.153792,"The annotator notes that Seika's biography records him reading the ""Tōrai Seventeen Histories"" before Tokugawa Ieyasu in 1600, so even though the Gohon nikki does not list this book, it may still have belonged to Ieyasu's Sunpu library. This is an inference, not a confirmed acquisition.
+---"
+18336,Momijiyama,又（羣書治要）,元和二年正月／（双擡）東照大君（德川家康）、活字ノ便ナルヲ以テ、駿府ニ於テ別ニ銅字數萬ヲ製セラレ、此書ヲ刷印令メラル。畔柳壽學、林道春（羅山）、釋（以心）崇傳等其事ニ預ル。後ニ銅字ヲ紀伊家ニ傳與セラレ、今ニ存スト云フ。／（双擡）有德大君（德川吉宗）、大統ヲ繼キタマフニ及ヒテ、銅板刷印ノ羣書治要、大藏一覽等、數部紀府ニ存スルヲ以テ、元文五年七月、其二部ヲ御庫ニ收メラル。,謹案ニ、林信勝年譜元和元年、赴駿府、奉　旨覽監羣書治要、大藏一覽開板之事トアルハ、此時ノ事ニシテ、初メ三要ニ賜ハリシ木板ニアラス。又元和二年、／（双擡）大神君棄羣臣、信勝配分官庫御書、附義直卿、賴宣卿、賴房卿之家臣トアリ。羣書治要、大藏一覽等、多ク紀府ニ存スルモ、其故ナルヘシ。,,來歷志子部,39,edition_type|transregional|provenance_actions|institutional,家康,TOKUGAWA_PROVENANCE,,"- 謹案ニ (""Respectfully, I consider:"")
+- 林信勝年譜元和元年、赴駿府、奉旨覽監羣書治要、大藏一覽開板之事トアルハ (""What the chronology of Hayashi Nobukatsu [Razan] records for Genna 1 (1615), 'went to Sunpu; receiving an order, examined and supervised the *Qunshu zhiyao* (Gunsho chiyō), and [dealt with] the matter of block-printing the *Daizō ichiran*,'"")
+- 此時ノ事ニシテ (""is a matter of this time,"")
+- 初メ三要ニ賜ハリシ木板ニアラス (""and is not the wooden printing material originally granted to Sanyō [Genkitsu]."")
+- 又元和二年 (""Furthermore, in Genna 2 (1616),"")
+- （双擡）大神君棄羣臣 ([double-raised honorific] ""the Great Divine Lord [Ieyasu] abandoned his assembled retainers [i.e., died],"")
+- 信勝配分官庫御書 (""Nobukatsu apportioned and distributed the honored books of the official storehouse,"")
+- 附義直卿、賴宣卿、賴房卿之家臣トアリ (""and assigned them to the retainers of Lord Yoshinao, Lord Yorinobu, and Lord Yorifusa"" — so it is recorded.)
+- 羣書治要、大藏一覽等、多ク紀府ニ存スルモ (""That many copies of the *Qunshu zhiyao*, *Daizō ichiran*, etc. survive in the Kii house,"")
+- 其故ナルヘシ (""must be for that reason."")",,,2026-10-13T16:03:05.153893,"The annotator argues that Razan's 1615 Sunpu work on the *Qunshu zhiyao* and *Daizō ichiran* printing is a separate matter from the wooden type first given to Sanyō, and that after Ieyasu's death in 1616 Razan divided the shogunal library's books among the Owari, Kii, and Mito lords (Yoshinao, Yorinobu, Yorifusa), which explains why many of these books are in the Kii collection.
+---"
+18450,Momijiyama,,"足利學校考
+下野足利學ハ、承和六年、小野篁其國司タリシ時草創スト云ヒ、或ハ篁カ家塾ナリト云ヒ、或ハ天長九年八月、篁敕ヲ奉テ草創スト〈日本史ニ相傳、下野足利學校篁嘗讀書處、上杉憲實創爲學校、聖廟傍有一室、安置篁木主、今見存焉〉。大草紙ニ、承和九年、篁陸奧ノ守トナルヲ以テ廢スト云。文德實錄ニ、承和六年春正月、遂捍詔爲庶人、配流隱岐國トアリ。又日本史ニ、小野篁身奉綸旨、出使外境、而稱病不行、準據律條、可處絞刑、今特宥死罪一等、處之遠流、因免爲庶人、竄于隱岐トアレハ、其國司タリシトキ創立ト云フ、亦陸奧ノ守トナルヲ以テ廢スト云フ、皆誤ナルヘシ。年代綿邈ニシテ、其詳ナルヲ知ルヘカラス。又大草紙ニ、應仁元年、長尾爲景カ舊蹟存スルヲ以テ、今ノ所ニ移スト云〈爲景一作景久〉。文明中、釋快元、儒釋同一ノ學ヲ以テ中興ス。永享中、上杉憲實再興シ、釋菜ノ例ヲ行ヒ、生徒ノ庖廩ヲ次ス。又五經注疏等ノ書ヲ收ム。其子憲忠、其子憲房、相ヒ繼テ寄進ノ書アリ。其書今現存ス。慶長中、／神祖（德川家康）菜地ヲ　賜ヒ、又三要（閑室元佶）ニ活字十餘萬ヲ　賜フテ、剏メテ孔子家語ヲ刷印シ、繼キテ周易、貞觀政要、七書、東鑑等ヲ印行ス。三要及ヒ鹿苑ノ（西笑）承兌等ニ、跋語ヲ書セ令ラル。是ヲ慶長活字板、復ハ足利本ト云フ。林恕（鵝峯）カ續本朝通鑑、其顚末ヲ記セリ。左ニ附錄シ孝槪＊ニ示セリ。","永享十一年閏正月、憲實納五經注疏於下野國足利學校。傳稱、足利學者、小野篁家塾也。中葉以來、僧徒住焉。然不稱長老和尙、而稱先生、以敎授兒童。且有求者、講五經及六韜等。或曰、（足利）尊氏曾祈勝軍之事於足利學校、稱有驗。而招京師儒官管之。其人＊水土之變、而不幾早世。自是儒官厭東行而不來、故禪徒窺文字者領之云。
+又學校有憲實文狀〈原書係諺語〉。
+凡漢土自國學至鄕校、非儒者無司業。聞綿竹惟以僧爲之主。今本朝州學存者僅有數焉。率亦以僧爲之主、野之＊爲最。古者＊曰、畛服而爲縫腋之行、何乖戾甚。雖然文字敎授、有庶幾焉。故我以五經注疏本若干卷、安置于學舎。自今講習無怠、則文化之行、自家達于鄕、達于州、達于國天下、指日而可竢矣。嗟夫寶惜珍藏、壽齊金石。主者思之。
+又有條目一通。其一曰、收蓄之固、其扃鑰針滕、勿浪借與人。若有志於披閱者、就舎內、看一册畢、可輙送還、不許將歸出閫外。其二曰、主事者進退時、新舊兩人相對、撿定每部卷數、而後可交代。其三曰、借讀者勿以丹墨加妄句、勿令紙背生毛、勿觸寒具手。其四曰、夏月梅雨濕糊櫃蒸、則至風凉可曝乾之、勿中屋瓦之漏濕。至冬月、則可嚴火禁之備。其五曰、或質于庫、或鬻于市、或爲穿窬所獲、則罪莫大焉。永享十一年己未閏正月初吉、前房州剌＊史藤原憲實。
+〈此注疏本、每册首閫外有上杉安房守憲實寄進、每册後有不許學校出閫外、又郭上有足利學公用。〉
+〈右注疏本中周易、題上杉右京亮憲忠寄進。蓋憲實所置之逸、憲忠補之乎。〉",＊考槪，＊依水土之變，＊野之學，＊言者，＊刺史,來歷志集部,39,,家康,TOKUGAWA_PROVENANCE,,"**Paragraph 1 (the donation and the school's background)**
+- 永享十一年閏正月 — In the 11th year of Eikyō (1439), intercalary first month,
+- 憲實納五經注疏於下野國足利學校 — Norizane deposited the Five Classics with commentaries and subcommentaries at the Ashikaga School in Shimotsuke Province.
+- 傳稱、足利學者、小野篁家塾也 — Tradition says: ""The Ashikaga school was the household school of Ono no Takamura.""
+- 中葉以來、僧徒住焉 — Since the middle period, Buddhist monks have lived there.
+- 然不稱長老和尙、而稱先生 — Yet they are not called ""elder"" or ""abbot"" but ""sensei,""
+- 以敎授兒童 — and they teach children.
+- 且有求者、講五經及六韜等 — Moreover, when there are petitioners, they lecture on the Five Classics, the Six Secret Teachings, and the like.
+- 或曰、（足利）尊氏曾祈勝軍之事於足利學校、稱有驗 — Some say: ""(Ashikaga) Takauji once prayed at the Ashikaga School for victory in war, and it was said to be efficacious.""
+- 而招京師儒官管之 — And he summoned a Confucian official from the capital to oversee it.
+- 其人＊水土之變、而不幾早世 — That man [character illegible; probably ""suffered/fell ill from""] the change of water and soil, and before long died young.
+- 自是儒官厭東行而不來 — From then on, Confucian officials disliked going east and did not come.
+- 故禪徒窺文字者領之云 — Therefore Zen followers who had peeked into writing took charge of it, so it is said.
+
+**Paragraph 2 (Norizane's written statement; the original was in vernacular Japanese)**
+- 又學校有憲實文狀〈原書係諺語〉 — Also, the school holds a written statement by Norizane (the original document is in vernacular speech).
+- 凡漢土自國學至鄕校、非儒者無司業 — In general, in China, from the national academy down to village schools, there is no director who is not a Confucian.
+- 聞綿竹惟以僧爲之主 — I hear that only at Mianzhu are monks made the head.
+- 今本朝州學存者僅有數焉 — In our country today, provincial schools that survive number only a few.
+- 率亦以僧爲之主、野之＊爲最 — Most of these too have monks as their heads, and Shimotsuke's [character illegible] is the foremost.
+- 古者＊曰 — The ancients [character illegible] said:
+- 畛服而爲縫腋之行、何乖戾甚 — ""To wear [畛服, meaning uncertain] yet act as one in the wide-sleeved Confucian robe, how extremely contradictory!""
+- 雖然文字敎授、有庶幾焉 — Even so, as for teaching writing, there is something to be hoped for.
+- 故我以五經注疏本若干卷、安置于學舎 — Therefore I have placed a number of volumes of the Five Classics commentary-and-subcommentary edition in the school building.
+- 自今講習無怠 — From now on, if lecturing and study are not neglected,
+- 則文化之行、自家達于鄕、達于州、達于國天下、指日而可竢矣 — then the spread of culture will reach from the household to the village, to the province, to the realm and all under heaven, and one can await it as if pointing to the day.
+- 嗟夫寶惜珍藏、壽齊金石 — Alas! Treasure them, cherish them, store them with care, so that their longevity matches bronze and stone.
+- 主者思之 — Let the one in charge ponder this.
+
+**Paragraph 3 (a set of regulations, five articles)**
+- 又有條目一通 — There is also one set of articles.
+- 其一曰 — Article 1:
+  - 收蓄之固、其扃鑰針滕、勿浪借與人 — Store the books securely, with locks, keys, and fastening cords; do not lend them carelessly to others.
+  - 若有志於披閱者、就舎內、看一册畢、可輙送還 — If someone wishes to read them, he should go to the building, finish looking at one volume, and promptly return it.
+  - 不許將歸出閫外 — It is not permitted to carry them home beyond the gate.
+- 其二曰 — Article 2:
+  - 主事者進退時 — When the administrator takes or leaves office,
+  - 新舊兩人相對、撿定每部卷數、而後可交代 — the new and old men face each other, inspect and fix the number of volumes in each set, and only then may they hand over.
+- 其三曰 — Article 3:
+  - 借讀者勿以丹墨加妄句 — Borrowers must not add careless punctuation in red or black ink,
+  - 勿令紙背生毛 — must not let the backs of pages grow fuzz,
+  - 勿觸寒具手 — and must not touch them with hands greasy from fried cakes.
+- 其四曰 — Article 4:
+  - 夏月梅雨濕糊櫃蒸 — In summer, the plum rains make things damp and the paste in the cabinets steams;
+  - 則至風凉可曝乾之 — when the breeze is cool, air-dry them.
+  - 勿中屋瓦之漏濕 — Do not let them be hit by dampness from roof-tile leaks.
+  - 至冬月、則可嚴火禁之備 — In winter, strictly make preparations against fire.
+- 其五曰 — Article 5:
+  - 或質于庫、或鬻于市、或爲穿窬所獲 — If they are pawned to a storehouse, sold in the market, or taken by a thief,
+  - 則罪莫大焉 — then there is no greater crime.
+- 永享十一年己未閏正月初吉 — Eikyō 11, year kibi-hitsuji (1439), intercalary first month, first day of the month.
+- 前房州剌＊史藤原憲實 — Former governor of Bōshū (Awa), Fujiwara Norizane. (The ＊ in 剌＊史 is a stray or illegible character.)
+
+**Notes (small-print annotations)**
+- 此注疏本 — In these commentary-and-subcommentary volumes,
+  - 每册首閫外有上杉安房守憲實寄進 — at the head of each volume, outside the frame, is written ""Donated by Uesugi, Governor of Awa, Norizane"";
+  - 每册後有不許學校出閫外 — at the end of each volume is written ""Not permitted to leave the school beyond the gate"";
+  - 又郭上有足利學公用 — and above the border is ""For public use of the Ashikaga School.""
+- 右注疏本中周易、題上杉右京亮憲忠寄進 — Among the above volumes, the Zhouyi (Book of Changes) is inscribed ""Donated by Uesugi Ukyō-no-suke Noritada.""
+- 蓋憲實所置之逸、憲",,,2026-10-13T16:03:05.154000,[Parse error]
+18465,Momijiyama,東照宮御實記,文化六年二月廿八日、林大學頭衡（述齋）及ヒ成島邦之助（東岳）、讓（筑山）等、　旨ヲ奉シテ編輯ス。上ハ／（双擡）東照大君（德川家康）ニ始マリ、下ハ／（双擡）浚明大君（德川家治）ニ至ルマテ、十代ノ御事蹟ヲ備載シ、御言行ノ如キハ別ニ御附錄ヲ附ス。嘉永二年十月九日、御庫ニ收ム。,,,來歷志御家類,40,,家康,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.154083,
+18501,Momijiyama,日本書紀,慶長十九年十月二十七日、／（双擡）東照大君（德川家康）、林道春（羅山）、僧（以心）崇傳ニ　命セラレ、五山ノ僧侶ヲシテ、南禪寺金地院ニ於テ諸家ノ記錄ヲ寫サシム。各三部ヲ寫シ、一部ハ／（双擡）禁裏ヘ獻セラレ、其餘ハ江府、駿府ニ收貯セラル。此書亦其一也。此後、／（双擡）禁裏仙洞及諸家ヨリ出ルト云モノ三十三種、皆慶長ノ寫本ナリ。事ハ林信勝年譜、崇傳日記及ヒ駿府日記等ニ詳載セリ。,,,來歷志國書部,41,,家康,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.154165,
+18551,Momijiyama,藤氏系圖,卷後ニ、右一册予遂書寫功者也、時慶長十六神龍院梵舜押字トアリ。梵舜ハ吉田ノ社僧ニテ、／（双擡）東照大君（德川家康）ニ寵遇アリシ者ナリ。駿府日記ニ、慶長十六年八月十六日、吉田神龍院梵舜進藤原氏系圖一卷トアルハ、卽チ是書ナルヘシ。,,,來歷志國書部,41,,家康,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.154247,
+18590,Momijiyama,東鑑,舊說ニ云フ、天正十八年、豐臣秀吉公小田原ノ北條氏政ヲ征伐ノ時、黑田勘解由孝高〈後薙髪號如水〉ヲシテ和平ヲ整ヘシム。氏直、其謝儀トシテ佩刀〈號日光一文字〉、白貝〈軍陣所用〉、書本東鑑ヲ以テ孝高ニ贈ル。其子筑前守長政ニ至リテ、東鑑ヲ／（双擡）台德大君（德川秀忠）ニ獻スト云フ。,謹案スルニ、黑田家譜云フ、慶長九年三月、備前守長政父勘解由孝高沒後、遺物トシテ／（単擡）東照大君（德川家康）ニ備前長光ノ刀、木丸ノ茶壺ヲ獻シ、／（単擡）台德大君ニ東鑑一部ヲ獻スト云フ、卽是ナリ。,,來歷志國書部,41,ownership,家康,TOKUGAWA_PROVENANCE,,"- 謹案スルニ: ""Respectfully considering / on humble examination,""
+- 黑田家譜云フ: ""the *Kuroda kafu* (Kuroda family genealogy) says:""
+- 慶長九年三月: ""In the third month of Keichō 9 (1604),""
+- 備前守長政父勘解由孝高沒後: ""after the death of Kuroda Takamasa's... that is, of Yoshitaka (Josui), styled Kageyu, father of Nagamasa, Bizen no kami,""
+- 遺物トシテ: ""as bequeathed keepsakes (relics of the deceased),""
+- ／（単擡）東照大君（德川家康）ニ: ""[line break, single raise as honorific] to the Great Lord Tōshō (Tokugawa Ieyasu),""
+- 備前長光ノ刀、木丸ノ茶壺ヲ獻シ: ""[he, Nagamasa] presented a sword by Nagamitsu of Bizen and a tea jar called 'Konomaru' (木丸),""
+- ／（単擡）台德大君ニ: ""[line break, single raise] and to the Great Lord Taitoku (Tokugawa Hidetada),""
+- 東鑑一部ヲ獻ス: ""presented one set of the *Azuma kagami*,""
+- ト云フ: ""so it is said;""
+- 卽是ナリ: ""this is precisely the matter (i.e., this is the very item in question).""
+
+Note: The ""備前守"" title for Nagamasa follows the source text as written. 單擡/単擡 is the convention of raising an honored name to the top of a new line, with one character of elevation, out of respect.",,,2026-10-13T16:03:05.154333,"Citing the *Kuroda kafu*, the note records that after Kuroda Josui (Yoshitaka) died in 1604, his son Nagamasa presented Josui's bequeathed items to the Tokugawa: a Bizen Nagamitsu sword and a tea jar to Ieyasu, and a set of the *Azuma kagami* to Hidetada. This identifies the source of the *Azuma kagami* copy that passed into the shogunal collection.
+---"
+18637,Momijiyama,,御文庫ノ設ハ／（三擡）東照大君（德川家康）、駿府御在城ノ時ニ始マル。林道春信勝（羅山）、ソノ管鑰ヲ掌トルコト、載テソノ年譜ニ見ユ。慶長十九年七月、駿府ヨリ／（三擡）台德大君（德川秀忠）ニ御書籍三十部ヲ賜フ。コノ時ニ、道春ト與安法印宗哲ト、連署ノ書アリ。江戸ヨリモ、永喜（林東舟）ト閑齋法印トノ答簡アリ。是ヲモテ考フレハ、與安法印モマタ、道春ト共ニ典籍ヲ司トリシナルヘシ。當時江戸御文庫ノコト、今詳ニシカタシ〈永喜、初名ハ信澄。道春ノ弟ニシテ江城ニ奉仕ス。與安、名ハ宗哲。醫ヲモテ駿府ニ奉仕ス。閑齋ノ履歷、詳ナラス〉。抑慶長元和ノ閒、四方多事ノ日ニ當リテ廣ク典籍ヲ蒐メ、駿府官庫ニ藏メテ、稽古右文ノ用ニ備ヘタマフ。元和二年／（三擡）東照大君薨去ノ後、道春　遺命ヲ奉シテ、（德川）義直卿、（德川）賴宣卿、（德川）賴房卿ニ分チ、日本ノ舊記オヨヒ希世ノ書ハ、江戸ノ御文庫ニ收メシヨシ、信勝カ年譜、駿府日記等ニ載ス。コレヨリ駿府御文庫ハ遂ニ廢シヌ。今御文庫ニ存スル道春ノ御本日記ハ、コノ時ノ目錄ナルニヤ、明據ナシ。寬永十年十二月二十日、奧向勤仕關兵三郞（正成）〈ノチ兵左衞門ト改ム〉、御納戸星合豬左衞門（具枚）、大御番三雲內記（成賢）、西尾加右衞門（正保）ヲモテ、始メテ御書物奉行ニ　命セラル。コレ司籍ノ官ヲ置ル權輿ナリ〈始メテ奉行ヲ　命セラレヽ＊ヲモテ書ス。ソノ餘ハ後ノ履歷ノ條ニ詳ナレハ記セス。モシソノ異常ノ者アレハ特書ス〉。,謹案スルニ、豬左衞門等カ家譜ニ云フ、寬永十三年丙子／（三擡）仙洞御所ヨリ律令ノ書ヲ求メ給フ。松平伊豆守（信綱）　旨ヲ奉シ、十月鎌倉ノ建長寺、圓覺寺ノ西堂オヨヒ緇徒二十餘人ヲ江戸ノ海禪寺ニ招キ、金澤文庫ノ律令ヲ書寫セシメラレ、林道春（羅山）、林永喜（東舟）コレヲ挍正シ、豬左衞門等ソノ事ヲ奉行ス。マタ十八年庚辰、太田備中守（資宗）　旨ヲ奉シテ、諸家ノ系圖ヲ撰フ。豬左衞門等、ソノ席ノ奉行タリト云フ。今採錄シテ考據ニ備フ。,＊命セラルヽ,始末記,43,institutional,家康,TOKUGAWA_PROVENANCE,,"""Respectfully considering [the matter]: the family genealogy of Inozaemon and others says:
+- In the 13th year of Kan'ei, the year of hinoe-ne (1636) [the original has a three-level honorific raise here], the Sentō Palace (the retired emperor) sought a book of the ritsuryō (the legal codes).
+- Matsudaira Izu-no-kami (Nobutsuna), receiving the command, in the tenth month invited the West Hall abbots (seidō) and more than twenty black-robed monks of Kenchōji and Engakuji in Kamakura to Kaizenji in Edo.
+- He had them copy the ritsuryō of the Kanazawa Bunko.
+- Hayashi Dōshun (Razan) and Hayashi Eiki (Tōshū) proofread it, and Inozaemon and others served as administrators (bugyō) of the affair.
+- Again, in the 18th year, the year of kanoe-tatsu (1640), Ōta Bitchū-no-kami (Sukemune), receiving a command, compiled the genealogies of the various houses.
+- Inozaemon and others, it is said, were the administrators of that session.
+- Now I have selected and recorded this, so as to provide it for reference and verification.""",,,2026-10-13T16:03:05.154421,"According to the Inozaemon family genealogy, in 1636 the retired emperor sought a ritsuryō text, so Matsudaira Nobutsuna had Kamakura Zen monks copy the Kanazawa Bunko ritsuryō at Kaizenji in Edo, with the Hayashi scholars proofreading and Inozaemon's line administering, and the same men later administered the 1640 genealogy compilation.
+---"
+18715,Momijiyama,（寬保元年辛酉）,十二月二十日、／（三擡）東照大君（德川家康）位記口宣ノ寫、御庫ニ收ムヘキヨシ、老中松平左近將監（乘邑）コレヲ達ス。若年寄板倉佐渡守（勝淸）侍座セリ〈コレヨリサキ、桂山三郞左衞門（義樹）ニ　命セラレル。紅葉山　御宮ニ入リテ謄寫スルトコロナリ〉。,,,始末記,43,,家康,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.154500,
+18787,Momijiyama,（寬政）十年戊午,十月六日、慶長中／（三擡）東照大君（德川家康）ヨリ／（三擡）台德大君（德川秀忠）ヘ御讓リノ御書籍三十部ヲ査檢スヘキヨシ、攝津守（堀田正敦）達ス。同月十一日、仙藏（成島峯雄）三十部ノ御書籍有無、異同等ヲ錄シ、本書ニソヘテ攝津守ヘ呈ス。,,,始末記,43,,家康,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.154579,
+18639,Momijiyama,元祿六年癸酉,十一月、始メテ屬吏四人ヲ置カル。今御書物同心ト稱スル者、コヽニ始マル〈コレヨリサキ、曝書ノ日コトニ　御本丸ヨリ坊主四五人來リテ、典籍ヲ出納ス。コノ後ソノ事ヲ停メテ、屬吏ヲシテソノ役ニ給セシム〉。,,,始末記,43,,本丸,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.157271,
+18642,Momijiyama,（寶永）六年己丑,十月十九日、西丸御書物奉行淺井半右衞門（淸盈）〈ノチ請フテ石川ニ復姓ス〉、平井五右衞門（次久）二人　命アリテ、／御本丸ノ同僚ニ入ル。其屬吏四人、亦從フ。,謹案スルニ、コノ二人櫻田邸ノ時ヨリ／（三擡）文昭大君（德川家宣）ニ奉仕シ、西丸ニ徙ラセタマフ。後一時西丸御書物奉行トナリシモノナルヘシ。,,始末記,43,,本丸,TOKUGAWA_PROVENANCE,,"- 謹案スルニ: ""Respectfully considering / on humble examination,""
+- コノ二人: ""these two men""
+- 櫻田邸ノ時ヨリ: ""from the time of the Sakurada mansion""
+- ／（三擡）: [line break, with the following name raised three characters above the line as a mark of respect]
+- 文昭大君(德川家宣)ニ奉仕シ: ""served the Great Lord Bunshō (Tokugawa Ienobu),""
+- 西丸ニ徙ラセタマフ: ""and when he (honorific) moved to the Nishinomaru (Western Citadel of Edo Castle),""
+- 後一時: ""afterwards, for a time,""
+- 西丸御書物奉行トナリシモノナルヘシ: ""they probably became the Nishinomaru Book Magistrates (shomotsu-bugyō).""
+
+Note: the honorific -タマフ attaches to Ienobu, so he is the one who moved to the Nishinomaru. The two men are understood to have followed him.",,,2026-10-13T16:03:05.157435,"The annotator infers that these two men served Tokugawa Ienobu from his Sakurada mansion days, followed him to the Nishinomaru, and for a time served as Nishinomaru book magistrates. The passage records no direct book transfer. It only identifies the officials who plausibly handled or held the books in Ienobu's household and library.
+---"
+18646,Momijiyama,（正德）五年癸未＊,七月十九日、櫻田邸ノ典籍ヲ御文庫ヘ轉搬アリ。曝書ノ日、　御本丸ヨリ御小性一人來リテ監視シ、事訖レハ御書目ヲ返納ストイヘリ〈櫻田邸ヨリ移サルヽノ書籍、凉曝ノ事ヲ奉行等司トルヘキヨシ、去年ソノ　命アリ。ソノ後、御小性監視ノ事止ミテ、曝書ハナホ舊ニ依ル〉。,,＊乙未,始末記,43,,本丸,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.157574,
+18880,Momijiyama,弘化元年甲辰、,／御本丸炎上ノ時、燒失セシ御書物數十部アルヲモテ、寫本ハ補寫シ、刊本ハ書賈ニ購求センコトヲ、若年寄大岡主膳正（忠固）ニ建言シテ、言フトコロヲ可セラル〈屬吏九人、舊例ノ如ク月俸金ヲ賜ハランコトヲ請フテ、允サル〉。,,,始末記,43,,本丸,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.157713,
+18892,Momijiyama,文久二年癸亥,十二月廿一日、去月　御本丸炎上ノ時、燒亡セシ御書籍數部アルヲモテ、去ル弘化元年丙辰ノ例ニヨリ、寫本ハ補寫シ刊本ハ書賈ニ購求センコトヲ、若年寄諏訪因幡守（忠誠）ニ建言シテ、同月廿八日、言フトコロノ如ク　命セラル〈屬吏七人ヲ撰ヒテ、從事セシム。月俸金等ノコト、弘化元年丙辰ノ例ニヨル。ノチ百辟譜略ハ、奉行等ノ建言ニヨリ、御系圖調所ニテ補寫ノ命アリ〉。,,,始末記,43,,本丸,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.157844,
+18910,Momijiyama,〈始ハ西丸御書物奉行、寶永六年十月十九日、御本丸同僚ニ入ル。享保十三年十二月十二日、死ス。〉,石川半右衞門淸盈,,,始末記,43,,本丸,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.157973,
+18542,Momijiyama,令集解,倶ニ金澤文庫ノ摹本ニシテ、前ノ律書ト倶ニ、菊亭家ノ獻スル所ナリ。其事前ニ詳悉セリ。每卷、諸博士ノ跋アリ。義解ニ、正嘉、弘長、文應中淸家ノ學士等以祕說授越後守ノ題識、卷一、卷四、卷六、卷七、卷十ニアリ。又弘長、文永中、實時重挍ノ題識、卷一、卷三、卷四、卷五ニアリ。集解ニ、學士家ノ跋竝ニ、實時文永六年三月一日合本書讀了トアリ。此書前ト同シク、駿河御文庫本ニシテ、御＊日記ニ載スル、道春所司ノ書ナリ。,,＊御本日記,來歷志國書部,41,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161027,
+18608,Momijiyama,享和元年採藥記,小野蘭山　命ヲ奉シテ、常州ノ筑波、野州ノ日光及ヒ甲斐、駿河、伊豆、相摹四州ノ山野溪谷ヲ採藥セシ、草木ヲ注記セル日錄ナリ。,,,來歷志國書部,41,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161138,
+18763,Momijiyama,（寬政四年壬子）,（五月）三十日、奧ニテ御書籍ノ出納、以來御小性ノ與ルコトヽナレリ。修理等ノコトニ至リテハ、舊ノコトク御小納戸ツカサトルノヨシ、御小納戸龜井駿河守（淸容）達ス。,,,始末記,43,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161230,
+18815,Momijiyama,（文化）十三年丙子,七月八日、／御前本、駿府御文庫本等、貴重各種ノ目錄ヲ周防守（京極高備）ニ示ス。マタ詩經圖〈新井筑後守（白石）進講ノ日、御覽ニ備ヘシトコロ也〉オヨヒ金澤本法曹類林等、軸子モシクハ帖本トナサハ可ナランコトヲ、若年寄植村駿河守（家長）ニ白ス。ソノ請ヒヲ可セラル。,,,始末記,43,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161313,
+18817,Momijiyama,（文化十三年丙子）,八月二日、先ニ／御前本、駿河御文庫本、金澤本等ハ分ケテ貴重アルヘキヨシ、書目ヲモテ周防守ヘ進言セシニ、マタ來歷ヲ記シテ言スヘキ旨アリ。,,,始末記,43,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161393,
+18826,Momijiyama,（文化十四年丁丑）,十一月十日、三御庫コトニ、オノオノ水盤ヲ置カンコトヲ、駿河守（植村家長）ヘ請フテ、コレヲ允セラル。,,,始末記,43,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161472,
+18834,Momijiyama,（文政）五年壬午,九月十八日、員ノ外ニ屬吏二人ヲ增サル。後來、員ノ缺ニ充テラルヘキムネ、駿河守（植村家長）、書ヲモテ達セリ。,,,始末記,43,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161549,
+18840,Momijiyama,（文政）七年甲申,二月八日、來年日光／御參詣ニヨリ、齎スヘキ地圖、例ニヨリテ修理ヲ加ハヘン事ヲ、駿河守（植村家長）ニ言ス。四月朔日、ソノ言ヲ允セラル。,,,始末記,43,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161625,
+18841,Momijiyama,（文政七年甲申）,八月十一日、櫻田藩邸ノ日記、年月ノ久シキニヨリ蠹敗スルモノヲ、修理裱褙セン事ヲ、駿河守ニ言ス。言フトコロヲ允セラル。,,,始末記,43,,駿河,TOKUGAWA_PROVENANCE,,,,,2026-10-13T16:03:05.161701,
