@@ -1,0 +1,37 @@
+Raw rows parsed: 98
+Duplicate Record_IDs (kept first occurrence): [18266, 18294, 18314, 18637]
+Unique records: 93
+
+Record class:
+record_class
+provenance_record    60
+catalogue_entry      22
+admin_log            11
+
+Book records by edition origin:
+edition_origin
+unspecified            34
+Keichō copy/print      25
+Song/Yuan print         6
+Manuscript (other)      6
+Korean print            4
+Kanazawa Bunko copy     4
+Ming print              2
+Movable type (JP)       1
+
+Book records by section:
+section
+國書部            42
+unspecified    11
+史部              9
+子部              8
+經部              4
+集部              4
+番外部             3
+附存部             1
+
+Book records with an era year: 29 / 82
+Hedged provenance claims (蓋/恐/ナルヘシ etc.): 11
+
+Books with no Title (check manually):
+18450
